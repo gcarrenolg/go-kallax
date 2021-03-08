@@ -4,8 +4,8 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/networkteam/go-kallax"
-	"github.com/networkteam/go-kallax/tests/fixtures"
+	"github.com/gcarrenolg/go-kallax"
+	"github.com/gcarrenolg/go-kallax/tests/fixtures"
 )
 
 type QueryFixture struct {

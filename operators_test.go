@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"testing"
 
-	"github.com/networkteam/go-kallax/types"
+	"github.com/gcarrenolg/go-kallax/types"
 	"github.com/stretchr/testify/suite"
 )
 

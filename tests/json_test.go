@@ -3,7 +3,7 @@ package tests
 import (
 	"testing"
 
-	kallax "github.com/networkteam/go-kallax"
+	kallax "github.com/gcarrenolg/go-kallax"
 	"github.com/stretchr/testify/suite"
 )
 
